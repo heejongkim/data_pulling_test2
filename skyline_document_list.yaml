@@ -1,0 +1,10 @@
+human canonical:
+  version: 1.0
+  releaseDate: 20200530
+  templateName: somethingHuman.zip
+  note: First release
+mouse canonical:
+  version: 1.0
+  releaseDate: 20200530
+  templateName: somethingMouse.zip
+  note: Initial Commit
